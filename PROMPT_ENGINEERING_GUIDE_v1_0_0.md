@@ -1,7 +1,5 @@
 # Guia de Engenharia de Prompt
 
-**Versão: v1.0.0**
-
 Este guia define como escrever prompts eficazes para trabalhar com Claude Code (ou qualquer assistente de IA) neste projeto. Ele reúne as práticas essenciais de um engenheiro de prompt: instruções claras, uso de Markdown, domínio de git, compreensão da estrutura do projeto, capacidade de explicar o resultado esperado, ciclo de teste/ajuste e consulta constante à documentação.
 
 ## 1. Escreva instruções claras e sem ambiguidade
